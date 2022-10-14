@@ -1,0 +1,14 @@
+input, textarea, select  {
+   display: block;
+   margin-bottom: 15px;
+   padding: 5px 10px;
+   font-family: 'Lucida Sans';
+   font-size: .6em;
+   width: 200px;
+   border-radius: 10px;
+}
+
+input[type="radio"], input[type="checkbox"] {
+   display: initial;
+   width: auto;
+}
